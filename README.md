@@ -1,25 +1,49 @@
 # Hey, I'm Vinícius de Oliveira Lêdro 👋
 
-💻 **Passionate about coding, learning, and building cool stuff with technology!**
-🎓 **Currently a Computer Science student and aspiring full-stack developer.**
+💻 **Passionate about coding, learning, and building cool stuff with technology!** <br>
+🎓 **Currently a Cross-Platform Software Developer student and aspiring full-stack developer.**
 
   ---
+
+## About me!
+
+  I'm a passionate and curious **Cross-Platform Software Development** student. My current focus is on mastering the fundamentals of programming to build a solid foundation for creating innovative and user-friendly digital solutions.
+
+  I believe in the power of technology to solve real-world problems and I am excited to be on this learning journey.
+
+  ---
+
+## 🔧 Technologies & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+### Other Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+
   
    <a href="https://github.com/ViniciusLedro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tre"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLedro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt
-="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra entrar em contato, segue os links abaixo!
+## Connect with Me 🤝
  
 <div> 
   <a href="https://www.instagram.com/voliveira.axt_?igsh=MWw5c3RoYmVpMGRpNw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
