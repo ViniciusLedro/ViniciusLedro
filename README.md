@@ -1,7 +1,11 @@
-## Bem-vindo(a) ao perfil 😁
+# Hey, I'm Vinícius de Oliveira Lêdro 👋
 
- <div>
-   <a href="https://github.com/th3Ch0s3n0ne">
+💻 **Passionate about coding, learning, and building cool stuff with technology!**
+🎓 **Currently a Computer Science student and aspiring full-stack developer.**
+
+  ---
+  
+   <a href="https://github.com/ViniciusLedro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tre"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLedro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
